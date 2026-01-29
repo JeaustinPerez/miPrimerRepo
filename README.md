@@ -7,3 +7,6 @@ Mi primera contribucion local para github yeah
 un commit mas desde github
 
 una actualizacion más
+
+cambios desde mi rama local llamada developer 01
+
